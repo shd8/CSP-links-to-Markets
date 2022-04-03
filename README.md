@@ -13,6 +13,6 @@
 
 `PROD`: public
 
-`PPE`, `CTE`: Ikea Team members only 🗝
+`PPE`, `CTE`: Ikea Team members only 🔑
 
-`Local`: CSP developers only 🗝
+`Local`: CSP developers only 🔑
