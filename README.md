@@ -11,7 +11,7 @@
 
 #### Visibility
 
-`PROD`: all
+`PROD`: public
 
 `PPE`, `CTE`: Ikea Team members only
 
