@@ -15,9 +15,9 @@
 
 ## POC links
 
-| local | Prod
-| -- | -- |
-| <a href="http://localhost:3000/" target="_blank"> `PROD`  </a> | <a href="https://compensation-frontend.herokuapp.com/" target="_blank"> `PROD`  </a>
+| local | Prod | live |
+| -- | -- | -- |
+| <a href="http://localhost:3000/" target="_blank"> `PROD`  </a> | <a href="https://compensation-frontend.herokuapp.com/" target="_blank"> `PROD`  </a> | live |
 
 ## Visibility
 
