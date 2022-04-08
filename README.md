@@ -15,9 +15,9 @@
 
 ## POC links
 
-| local | Prod | live |
-| -- | -- | -- |
-| <a href="http://localhost:3000/" target="_blank"> `PROD`  </a> | <a href="https://compensation-frontend.herokuapp.com/" target="_blank"> `PROD`  </a> | live |
+| local | Prod |public |  live |
+| -- | -- | -- | -- |
+| <a href="http://localhost:3000/" target="_blank"> `PROD`  </a> | <a href="https://compensation-frontend.herokuapp.com/" target="_blank"> `PROD`  </a> | <a href="https://icare.ingka.com/" target="_blank"> `ICARE`  </a> | live |
 
 ## Visibility
 
